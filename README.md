@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![PoppinL's github stats](https://github-readme-stats.vercel.app/api?username=jsonma&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonma&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsonma)
